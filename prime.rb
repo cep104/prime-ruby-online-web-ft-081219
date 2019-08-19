@@ -1,3 +1,5 @@
 def prime?(number)
-  number.prime?
+ if number > 0 
+   number.prime?
+ end
 end
