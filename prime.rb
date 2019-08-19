@@ -1,2 +1,3 @@
-prime?(number)
-
+def prime?(number)
+  
+end
