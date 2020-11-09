@@ -17,3 +17,15 @@ end
 #can't equal 0
 #can't equal 1
 #can't be divisable by anything between 2 and 1- the number
+
+
+# def prime?(integer)
+#     if integer <= 1
+#       false
+#     elsif integer <= 3
+#       true
+#     else (2..integer/2).none? do |i|
+#       integer % i == 0
+#       end
+#     end
+#   end
