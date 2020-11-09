@@ -22,7 +22,7 @@ end
 # def prime?(integer)
 #     if integer <= 1
 #       false
-#     elsif integer <= 3
+#     elsif integer <= 3 #if number is 2 or 3 its true
 #       true
 #     else (2..integer/2).none? do |i|
 #       integer % i == 0
